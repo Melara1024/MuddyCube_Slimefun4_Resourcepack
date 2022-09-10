@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer1": "./medicine",
+        "layer0": "./medicine_overlay"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "optifine/cit/misc/can",
+        "layer1": "optifine/cit/misc/food/berry"
+    }
+}

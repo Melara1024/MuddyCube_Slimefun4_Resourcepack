@@ -1,0 +1,6 @@
+{
+	"parent": "./ui",
+	"textures": {
+		"ui": "./upload_script"
+	}
+}

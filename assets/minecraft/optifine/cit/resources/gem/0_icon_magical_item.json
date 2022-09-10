@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "./magical_lump_3",
+        "layer1": "./0_icon_magical_item_layer1"
+    }
+}

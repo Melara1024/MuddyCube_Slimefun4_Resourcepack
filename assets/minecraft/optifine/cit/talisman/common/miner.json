@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "optifine/cit/talisman/common",
+        "layer1": "optifine/cit/talisman/common/miner"
+    }
+}
