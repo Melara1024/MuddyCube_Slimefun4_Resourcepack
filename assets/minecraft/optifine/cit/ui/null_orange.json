@@ -1,0 +1,6 @@
+{
+  "parent": "./ui",
+  "textures": {
+    "ui": "./null_orange"
+  }
+}

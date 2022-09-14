@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "./overlay",
+        "layer1": "./sweetberry"
+    }
+}

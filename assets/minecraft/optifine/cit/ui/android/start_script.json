@@ -1,0 +1,6 @@
+{
+	"parent": "./ui",
+	"textures": {
+		"ui": "./start_script"
+	}
+}
