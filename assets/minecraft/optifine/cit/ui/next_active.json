@@ -1,6 +1,0 @@
-{
-  "parent": "./ui",
-  "textures": {
-    "ui": "./next_active"
-  }
-}

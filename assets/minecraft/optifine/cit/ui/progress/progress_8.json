@@ -1,6 +1,0 @@
-{
-  "parent": "optifine/cit/ui/ui",
-  "textures": {
-    "ui": "./progress_8"
-  }
-}

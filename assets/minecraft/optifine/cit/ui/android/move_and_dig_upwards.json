@@ -1,6 +1,0 @@
-{
-	"parent": "./ui",
-	"textures": {
-		"ui": "./move_and_dig_upwards"
-	}
-}

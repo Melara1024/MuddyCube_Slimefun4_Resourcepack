@@ -1,7 +1,0 @@
-{
-  "parent": "./backpack_medium",
-  "textures": {
-    "0": "./backpack_ender",
-    "particle": "./backpack_ender"
-  }
-}
