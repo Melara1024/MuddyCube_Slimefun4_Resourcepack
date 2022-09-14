@@ -1,0 +1,7 @@
+{
+  "parent": "./backpack_medium",
+  "textures": {
+    "0": "./backpack_soulbound",
+    "particle": "./backpack_soulbound"
+  }
+}

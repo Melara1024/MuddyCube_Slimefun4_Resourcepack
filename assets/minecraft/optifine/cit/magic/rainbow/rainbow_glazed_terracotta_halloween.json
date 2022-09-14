@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "./rainbow_glazed_terracotta_halloween"
+    }
+}
