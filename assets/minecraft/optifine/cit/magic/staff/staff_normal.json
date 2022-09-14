@@ -1,0 +1,6 @@
+{
+  "parent": "./staff",
+  "textures": {
+    "1": "./staff_normal"
+  }
+}
