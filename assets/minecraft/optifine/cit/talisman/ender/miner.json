@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:item/generated",
+    "parent": "item/generated",
     "textures": {
         "layer0": "optifine/cit/talisman/ender",
         "layer1": "optifine/cit/talisman/common/miner"

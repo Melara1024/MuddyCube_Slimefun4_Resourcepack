@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:item/generated",
+    "parent": "item/generated",
     "textures": {
         "layer0": "optifine/cit/misc/bag",
         "layer1": "optifine/cit/misc/fertilizer/kelp"
