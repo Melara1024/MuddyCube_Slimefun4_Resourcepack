@@ -1,0 +1,6 @@
+{
+	"parent": "./ui",
+	"textures": {
+		"ui": "./harvest_and_replant"
+	}
+}

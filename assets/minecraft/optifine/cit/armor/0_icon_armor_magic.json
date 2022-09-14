@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "./soulbound/icon/soulbound_chestplate",
+        "layer1": "./soulbound/icon/soulbound_chestplate"
+    }
+}
