@@ -1,6 +1,6 @@
-# MuddyCube Resourcepack  
+# MuddyCube Resourcepack for Slimefun 4
 
-This is Minecraft Custom Resourcepack for Slimefun4.
+This is Minecraft Custom Resourcepack for Slimefun 4.
 It makes Slimefun items cooler and more beautiful!
 
 ## Download from [here](https://www.curseforge.com/minecraft/texture-packs/muddycube-resourcepack/files)  
